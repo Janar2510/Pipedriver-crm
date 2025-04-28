@@ -1,0 +1,153 @@
+{
+  "common": {
+    "search": "Search",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "syncNow": "Sync Now",
+    "lastSync": "Last Sync",
+    "never": "Never",
+    "save": "Save",
+    "cancel": "Cancel",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "loading": "Loading...",
+    "noData": "No data available"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "contacts": "Contacts",
+    "deals": "Deals",
+    "tasks": "Tasks",
+    "calendar": "Calendar",
+    "reports": "Reports",
+    "settings": "Settings",
+    "help": "Help",
+    "email": "Email"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview of your sales performance",
+    "kpi": {
+      "totalContacts": "Total Contacts",
+      "activeDealsValue": "Active Deals Value",
+      "wonDealsValue": "Won Deals Value",
+      "tasks": "Tasks"
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "addContact": "Add Contact",
+    "importContacts": "Import Contacts",
+    "exportContacts": "Export Contacts",
+    "searchPlaceholder": "Search contacts...",
+    "filters": {
+      "all": "All",
+      "customers": "Customers",
+      "leads": "Leads",
+      "prospects": "Prospects"
+    },
+    "details": {
+      "contactInfo": "Contact Information",
+      "company": "Company",
+      "position": "Position",
+      "email": "Email",
+      "phone": "Phone",
+      "lastContacted": "Last Contacted",
+      "notes": "Notes",
+      "tags": "Tags"
+    }
+  },
+  "deals": {
+    "title": "Deals",
+    "addDeal": "Add Deal",
+    "searchPlaceholder": "Search deals...",
+    "stages": {
+      "lead": "Lead",
+      "discovery": "Discovery",
+      "proposal": "Proposal",
+      "negotiation": "Negotiation",
+      "closedWon": "Closed Won",
+      "closedLost": "Closed Lost"
+    },
+    "priority": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    }
+  },
+  "tasks": {
+    "title": "Tasks",
+    "addTask": "Add Task",
+    "searchPlaceholder": "Search tasks...",
+    "filters": {
+      "all": "All Tasks",
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "status": {
+      "overdue": "Overdue",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "upcoming": "Upcoming",
+      "later": "Later",
+      "completed": "Completed"
+    }
+  },
+  "calendar": {
+    "title": "Calendar",
+    "addEvent": "Add Event",
+    "viewOptions": {
+      "month": "Month",
+      "week": "Week",
+      "day": "Day"
+    },
+    "events": {
+      "meeting": "Meeting",
+      "call": "Call",
+      "deadline": "Deadline"
+    }
+  },
+  "email": {
+    "title": "Email",
+    "compose": "Compose",
+    "history": "History",
+    "templates": "Templates",
+    "settings": "Settings",
+    "subject": "Subject",
+    "to": "To",
+    "send": "Send",
+    "schedule": "Schedule",
+    "attachments": "Attachments"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "Language Settings",
+      "select": "Select Language",
+      "en": "English",
+      "et": "Estonian",
+      "es": "Spanish",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "pt": "Portuguese",
+      "ru": "Russian",
+      "zh": "Chinese",
+      "ja": "Japanese"
+    },
+    "currency": {
+      "title": "Currency Settings",
+      "select": "Select Currency",
+      "default": "Default Currency"
+    },
+    "customFields": {
+      "title": "Custom Fields",
+      "addField": "Add Field",
+      "fieldName": "Field Name",
+      "fieldType": "Field Type",
+      "required": "Required"
+    }
+  }
+}

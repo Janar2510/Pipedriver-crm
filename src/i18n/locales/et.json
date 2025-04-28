@@ -1,0 +1,153 @@
+{
+  "common": {
+    "search": "Otsi",
+    "enabled": "Lubatud",
+    "disabled": "Keelatud",
+    "syncNow": "Sünkroniseeri nüüd",
+    "lastSync": "Viimane sünkroniseerimine",
+    "never": "Mitte kunagi",
+    "save": "Salvesta",
+    "cancel": "Tühista",
+    "add": "Lisa",
+    "edit": "Muuda",
+    "delete": "Kustuta",
+    "back": "Tagasi",
+    "loading": "Laadimine...",
+    "noData": "Andmed puuduvad"
+  },
+  "navigation": {
+    "dashboard": "Töölaud",
+    "contacts": "Kontaktid",
+    "deals": "Tehingud",
+    "tasks": "Ülesanded",
+    "calendar": "Kalender",
+    "reports": "Aruanded",
+    "settings": "Seaded",
+    "help": "Abi",
+    "email": "E-post"
+  },
+  "dashboard": {
+    "title": "Töölaud",
+    "overview": "Ülevaade müügitulemustest",
+    "kpi": {
+      "totalContacts": "Kontakte kokku",
+      "activeDealsValue": "Aktiivsete tehingute väärtus",
+      "wonDealsValue": "Võidetud tehingute väärtus",
+      "tasks": "Ülesanded"
+    }
+  },
+  "contacts": {
+    "title": "Kontaktid",
+    "addContact": "Lisa kontakt",
+    "importContacts": "Impordi kontakte",
+    "exportContacts": "Ekspordi kontakte",
+    "searchPlaceholder": "Otsi kontakte...",
+    "filters": {
+      "all": "Kõik",
+      "customers": "Kliendid",
+      "leads": "Müügivihjed",
+      "prospects": "Potentsiaalsed kliendid"
+    },
+    "details": {
+      "contactInfo": "Kontakti info",
+      "company": "Ettevõte",
+      "position": "Ametikoht",
+      "email": "E-post",
+      "phone": "Telefon",
+      "lastContacted": "Viimati kontakteeritud",
+      "notes": "Märkmed",
+      "tags": "Sildid"
+    }
+  },
+  "deals": {
+    "title": "Tehingud",
+    "addDeal": "Lisa tehing",
+    "searchPlaceholder": "Otsi tehinguid...",
+    "stages": {
+      "lead": "Müügivihje",
+      "discovery": "Avastamine",
+      "proposal": "Pakkumine",
+      "negotiation": "Läbirääkimised",
+      "closedWon": "Võidetud",
+      "closedLost": "Kaotatud"
+    },
+    "priority": {
+      "high": "Kõrge",
+      "medium": "Keskmine",
+      "low": "Madal"
+    }
+  },
+  "tasks": {
+    "title": "Ülesanded",
+    "addTask": "Lisa ülesanne",
+    "searchPlaceholder": "Otsi ülesandeid...",
+    "filters": {
+      "all": "Kõik ülesanded",
+      "active": "Aktiivsed",
+      "completed": "Lõpetatud"
+    },
+    "status": {
+      "overdue": "Hilinenud",
+      "today": "Täna",
+      "tomorrow": "Homme",
+      "upcoming": "Tulemas",
+      "later": "Hiljem",
+      "completed": "Lõpetatud"
+    }
+  },
+  "calendar": {
+    "title": "Kalender",
+    "addEvent": "Lisa sündmus",
+    "viewOptions": {
+      "month": "Kuu",
+      "week": "Nädal",
+      "day": "Päev"
+    },
+    "events": {
+      "meeting": "Koosolek",
+      "call": "Kõne",
+      "deadline": "Tähtaeg"
+    }
+  },
+  "email": {
+    "title": "E-post",
+    "compose": "Koosta",
+    "history": "Ajalugu",
+    "templates": "Mallid",
+    "settings": "Seaded",
+    "subject": "Teema",
+    "to": "Saaja",
+    "send": "Saada",
+    "schedule": "Ajasta",
+    "attachments": "Manused"
+  },
+  "settings": {
+    "title": "Seaded",
+    "language": {
+      "title": "Keele seaded",
+      "select": "Vali keel",
+      "en": "Inglise",
+      "et": "Eesti",
+      "es": "Hispaania",
+      "fr": "Prantsuse",
+      "de": "Saksa",
+      "it": "Itaalia",
+      "pt": "Portugali",
+      "ru": "Vene",
+      "zh": "Hiina",
+      "ja": "Jaapani"
+    },
+    "currency": {
+      "title": "Valuuta seaded",
+      "select": "Vali valuuta",
+      "default": "Vaikimisi valuuta"
+    },
+    "customFields": {
+      "title": "Kohandatud väljad",
+      "addField": "Lisa väli",
+      "fieldName": "Välja nimi",
+      "fieldType": "Välja tüüp",
+      "required": "Kohustuslik"
+    }
+  }
+}
